@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "midi": "^1.0.0",
+    "yargs": "^16.2.0"
+  },
+  "name": "mc8-midi-settings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
