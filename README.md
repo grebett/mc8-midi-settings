@@ -41,7 +41,6 @@ They must follow this format:
     [3, 1],
     [4, 11],
     [4, 1]
-  ],
 ]
 ```
 
@@ -52,7 +51,7 @@ They must follow this format:
 The CLI offers the following command:
 
 ```
-    -h					Prints this help
+    -h				Prints this help
     -l	--list			List all banks
     -n	--next			Upload next bank
     -p	--prev			Upload previous bank
